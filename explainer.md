@@ -36,7 +36,7 @@ On the Web, due to a lack of a standardized JS API for Face Framing and widespre
 
 ## Performance
 
-On Windows and Mac platforms, Face Framing would leverage NPU (Neural Processing Unit). Windows 11 and a explicit NPU/ VPU is a  requirement.
+On Windows and Mac platforms, Face Framing would leverage NPU (Neural Processing Unit). Windows 11 and a explicit NPU/ VPU might be a requirement for some implementation to guarantee a level of user experience expected by users of modern computing platforms.
 
 ## User research
 
