@@ -173,9 +173,7 @@ As such, sites cannot fingerprint the face framing implementation as the sites h
 
 ## Stakeholder Feedback / Opposition
 
-[Implementors and other stakeholders may already have publicly stated positions on this work. If you can, list them here with links to evidence as appropriate.]
-
-[If appropriate, explain the reasons given by other implementors for their concerns.]
+[ChromeOS camera team] As of this writing, ChromeOS supports one-shot face framing mode. Continuously moving face framing is not currently supported due to additional work required to meet accessibility and inclusion requirements.
 
 ## References & acknowledgements
 
