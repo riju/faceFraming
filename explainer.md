@@ -184,6 +184,8 @@ Many thanks for valuable feedback and advice from:
 - [Jan-Ivar Bruaroey]
 - [Dominique Hazael-Massieux]
 - [François Beaufort]
+- [CJ Huang]
+- [Jon Napper]
 
 
 ## Disclaimer
