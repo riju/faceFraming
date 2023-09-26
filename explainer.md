@@ -188,6 +188,7 @@ Many thanks for valuable feedback and advice from:
 - [François Beaufort]
 - [CJ Huang]
 - [Jon Napper]
+- [Henrik Boström]
 
 
 ## Disclaimer
