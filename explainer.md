@@ -156,6 +156,8 @@ The face framing constraints are provided by web applications by passing them to
 
 Automatic face framing combines face tracing, a composition algorithm, like something based on the principle of thirds, and pixel-wise super-resolution to create a portrait with the best composition from the image with the detected face. A wider Filed Of View (FOV) allows for better coverage, ensuring the webcam can track your face even if you move around. The maximum FOV is the camera's FOV, and `navigator.mediaDevices.getUserMedia()` is used to get permission for the camera access. When you move from the front of the camera to another corner of the meeting room, the camera will change the focal length to capture you in the corner and frame you in the center of the screen, provided you still fall within the camera's FOV.
 
+Henrik [commented](https://github.com/w3c/mediacapture-extensions/issues/94#issue-1647760599) Face framing could result in zooming changing dynamically. For example, my face is visible, framing zooms in. I leave my desk for a minute and when I'm back the camera is no longer zoomed, revealing something that was not previously in field of view.
+
 ### Fingerprinting
 
 If a site does not have [permissions](https://w3c.github.io/permissions/), face framing provides practically no fingerprinting posibilities.
